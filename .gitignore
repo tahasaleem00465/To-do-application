@@ -1,0 +1,15 @@
+.dart_tool/
+.packages
+build/
+.gradle/
+.idea/
+*.iml
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/local.properties
+ios/Pods/
+ios/.symlinks/
+*.lock
+!pubspec.lock
